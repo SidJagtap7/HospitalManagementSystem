@@ -107,7 +107,7 @@ public class HospitalManagementSystem {
                     }
                     case 5 -> {
                         //Exit
-                        System.out.println("Thank you for using Hospital Management System!!");
+                        System.out.println("Thank you for using Hospital Management System!");
                         return;
                     }
                     default -> System.out.println("Enter Valid Choice");
